@@ -114,3 +114,10 @@ p {
     display: inline-block; /* Ensure the video is treated as an inline block element */
      width: 40%
 }
+
+.video-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+}
